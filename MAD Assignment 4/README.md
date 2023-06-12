@@ -1,11 +1,5 @@
-# Sample Snack app
+![Signup](https://github.com/SofiaAhmed998/MAD-Theory/assets/113821483/8d3fa005-4e80-458f-b1cd-755004d5b299)
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+![incorrect password](https://github.com/SofiaAhmed998/MAD-Theory/assets/113821483/09e99ae6-8e28-4049-8516-ded0403e91f7)
+![Login1](https://github.com/SofiaAhmed998/MAD-Theory/assets/113821483/2187a2c6-1ba3-434c-9f27-b90948e6739e)
+![Home After login](https://github.com/SofiaAhmed998/MAD-Theory/assets/113821483/aae43ea3-8c0a-4151-a025-b971f31d3b80)
